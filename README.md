@@ -6,7 +6,7 @@
 - 🌱 &nbsp; Love to create new stuffs.
 - 🎓 &nbsp; Computer Science and Technology BSc at Southern University of Science and Technology.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working on blockchain infrastructure Development at Scroll.
+- 💼 &nbsp; Working on Ethereum zkevm circuits Development at Scroll.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
