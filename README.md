@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Akase.</h2>
 
+*Previous known as: Akase Cho*
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ⚙️ &nbsp; Rust developer since v1.33.
